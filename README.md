@@ -26,3 +26,5 @@
   单调栈与最小最大字典序序列
 ### 331. Verify Preorder Serialization of a Binary Tree
   有意思，如何验证前序遍历有效性
+382. 链表随机节点
+  有意思的概率
